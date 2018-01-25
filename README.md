@@ -1,2 +1,4 @@
 # Hello-World
-Guided repository
+Guided repository.
+
+Used to commit changes in a branch.
